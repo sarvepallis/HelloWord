@@ -11,9 +11,7 @@ Modified locally 3
 
 Modified online(github) 4
 
-<<<<<<< .merge_file_a04000
 Modified locally 5
-=======
 Modified online(github) 6
 
->>>>>>> .merge_file_a08248
+
