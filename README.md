@@ -19,3 +19,6 @@ sssss
 
 
 Auto merge, online and local copy. This line is updated from Online.
+
+
+Modified local copy, check before checkin to Github Source file. Compare first
