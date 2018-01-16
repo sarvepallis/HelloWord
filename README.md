@@ -17,3 +17,5 @@ Auto merge, online and local copy. This line is updated from Online.
 
 
 Using GitHub Desktop app, modified file....
+
+Step 2: modified online again after push from Github desktop. 
